@@ -29,6 +29,8 @@
             Console.WriteLine("For EACH example:");
             ForEachEx.Run();
             ForEachChallenge.Run();
+            Console.WriteLine("For loop AND IF ELSE AND ELSE IF example:");
+            ForIfElseIf.Run();
         }
     }
 }
